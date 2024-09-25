@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌼 Luana Colonhesi - Perfil GitHub
 
-<!--
-**luanacolonhesi/luanacolonhesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "A constante evolução é o que nos define." 💖
 
-Here are some ideas to get you started:
+### Sobre mim
+💼 **Estudante de Desenvolvimento** | 💻 **Aprimorando Habilidades em JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é **Luana Colonhesi** e estou atualmente estudando na **Alura**, focando no desenvolvimento da linguagem **JavaScript**. Este repositório é um espaço que criei para organizar e compartilhar meus projetos e estudos, buscando aprimorar minhas habilidades e contribuir com a comunidade. ✨
+
+---
+
+### 🛠️ Habilidades
+
+- **Linguagens:** JavaScript, HTML, CSS
+
+### 🎯 Status Atual
+- 💻 **Estudando:** Cursos de JavaScript e Desenvolvimento Web na Alura
+- 🚀 **Objetivos:** Consolidar conhecimentos em JavaScript e explorar frameworks como React e Node.js
+- 🏅 **Projetos em desenvolvimento:** Aplicações web interativas, organizadas neste repositório
+
+---
