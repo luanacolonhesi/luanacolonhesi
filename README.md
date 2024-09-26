@@ -19,3 +19,4 @@ Meu nome é **Luana Colonhesi** e estou atualmente estudando na **Alura**, focan
 - 🏅 **Projetos em desenvolvimento:** Aplicações web interativas, organizadas neste repositório
 
 ---
+![moranguinho dando risada](https://tenor.com/bAhpH.gif)
